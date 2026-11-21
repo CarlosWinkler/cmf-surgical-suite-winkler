@@ -3,7 +3,7 @@
 
 **Suíte completa de planejamento virtual 3D (VSP) para Cirurgia Ortognática e Bucomaxilofacial no Blender.**  
 *Complete 3D Virtual Surgical Planning (VSP) suite for Orthognathic and Craniomaxillofacial Surgery in Blender.*
-
+*Considere fazer um PIX de qualquer valor para apoiar o projeto para: carlosbetter.adm@gmail.com.*
 ---
 
 ## 📋 Visão Geral / Overview
