@@ -1,0 +1,9 @@
+schema_version = "1.0.0"
+id = "cmf_surgical_suite_winkler"
+version = "1.0.0"
+name = "CMF Surgical Suite - Dr. Winkler"
+tagline = "Planejamento virtual 3D completo para cirurgia ortognatica e bucomaxilofacial"
+maintainer = "Dr. Carlos J. Winkler"
+type = "add-on"
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
