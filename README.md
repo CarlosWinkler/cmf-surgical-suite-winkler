@@ -1,5 +1,5 @@
 # cmf-surgical-suite-winkler
-# 🦷 CMF Surgical Suite - Dr. Winkler (Blender 4.2+)
+# 🦷 CMF Surgical Suite - Carlos Jorge Winkler (Blender 4.2+)
 
 **Suíte completa de planejamento virtual 3D (VSP) para Cirurgia Ortognática e Bucomaxilofacial no Blender.**  
 *Complete 3D Virtual Surgical Planning (VSP) suite for Orthognathic and Craniomaxillofacial Surgery in Blender.*
